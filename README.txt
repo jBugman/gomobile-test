@@ -1,1 +1,1 @@
-Simple Swift app with WebView and embedded http server written in Go, which it access at localhost.
+Simple Swift app with WebView and embedded HTTP server written in Go and accessable at localhost.
